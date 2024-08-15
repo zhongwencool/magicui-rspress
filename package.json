@@ -8,9 +8,18 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.27.0"
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.28",
+    "lucide-react": "^0.427.0",
+    "rspress": "^1.27.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@types/node": "^16"
+    "@types/node": "^16",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10"
   }
 }
